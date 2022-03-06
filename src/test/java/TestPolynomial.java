@@ -23,6 +23,7 @@ public class TestPolynomial {
         nrTesteExecutate++;
     }
 
+
     @AfterEach
     public void tearDown() throws Exception {
         System.out.println("S-a terminat testul curent!");
